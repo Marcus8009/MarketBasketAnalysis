@@ -40,7 +40,7 @@ The key steps and findings are summarized below:
 ## Analysis
 
 ### High Confidence and Lift Values
-
+- **Extremely high lift values observed for most items, it is possible that the data includes items that are already part of promotions or sold together in a set causing these lift values .
 - **Lemon Sparkling Water → Grapefruit Sparkling Water**: High confidence (0.35) and extremely high lift (79.28) suggest a strong association. Customers who buy Lemon Sparkling Water are very likely to buy Grapefruit Sparkling Water.
 - **Non Fat Raspberry Yogurt → Icelandic Style Skyr Blueberry Non-fat Yogurt**: High confidence (0.45) and lift (75.44) indicate a strong relationship. Promoting these together could be effective.
 
