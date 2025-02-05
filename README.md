@@ -20,7 +20,7 @@ The key steps and findings are summarized below:
 
 3. **Data Preparation**:
    - Merge DataFrames using broadcast join.
-   - Perform random sampling and repartition data for balanced distribution.
+   - Repartition data for balanced distribution.
    - Create a product-level dataset and transaction data.
 
 4. **Model Training**:
